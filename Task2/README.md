@@ -167,4 +167,5 @@ $$\text{Cosine Similarity}(\vec{A}, \vec{B}) = \frac{\vec{A} \cdot \vec{B}}{\|\v
 
 ## 📜 License
 This project is open-source under the MIT License.
-https://github.com/hemanthkumar9823/codealpha_tasks/blob/main/Task2/Screenshot%202026-07-30%20193541.png
+
+<img width="1901" height="860" alt="Screenshot 2026-07-30 193541" src="https://github.com/user-attachments/assets/4955c00c-01ce-4fed-a762-66da598846b8" />
