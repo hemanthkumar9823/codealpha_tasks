@@ -233,3 +233,5 @@ Fetches dictionary definitions, translations, parts of speech, and usage example
 
 ## 📜 License
 This project is open-source under the **MIT License**.
+
+<img width="1912" height="831" alt="Screenshot 2026-07-30 202727" src="https://github.com/user-attachments/assets/b85bc514-5643-488a-9169-590a00af3e22" />
