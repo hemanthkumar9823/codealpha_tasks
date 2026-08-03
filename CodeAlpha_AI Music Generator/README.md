@@ -155,3 +155,4 @@ $$P(y_i) = \frac{\exp(z_i / T)}{\sum_{j=1}^{V} \exp(z_j / T)}$$
 
 ## 📜 License
 This project is open-source under the MIT License.
+<img width="1917" height="911" alt="Screenshot 2026-07-30 210800" src="https://github.com/user-attachments/assets/e50f9bfe-b08f-42e4-af8b-0d87edc6e4a0" />
