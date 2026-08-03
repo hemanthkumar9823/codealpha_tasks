@@ -229,7 +229,11 @@ Extracts and translates structured content from attached documents (PDF/TXT).
 ### 5. `POST /api/dictionary`
 Fetches dictionary definitions, translations, parts of speech, and usage examples for a word.
 
+
 ---
 
 ## 📜 License
 This project is open-source under the **MIT License**.
+
+
+<img width="1912" height="831" alt="Screenshot 2026-07-30 202727" src="https://github.com/user-attachments/assets/bdcb9977-4839-4729-9642-6ac8cdbee332" />
