@@ -1,8 +1,0 @@
-{
-  "name": "Remix AI Music Generator",
-  "description": "LSTM-based Deep Learning AI Music Generator with dataset preprocessing, interactive training simulation, live MIDI generation, piano roll audio playback, and full Python internship codebase exporter.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
