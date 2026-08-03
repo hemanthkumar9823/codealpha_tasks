@@ -1,8 +1,0 @@
-{
-  "name": "Remix NLP FAQ Chatbot",
-  "description": "An intelligent college assistant powered by Python, Flask, NLTK, TF-IDF Vectorization, and Cosine Similarity.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
